@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "cmake.sourceDirectory": "/home/deive/repos/multi_modal_machine_learning/.venv/lib/python3.12/site-packages/tensorflow/xla_aot_runtime_src"
+}
